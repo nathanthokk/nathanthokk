@@ -12,7 +12,7 @@
 - 💬 **Ask me about**: React.js, Java, C/C++, Python, leadership experiences, and coding best practices.
 - 📫 **How to reach me**: 
   - **Email**: [nathanthokk@gmail.com](mailto:nathanthokk@gmail.com)
-  - **LinkedIn**: [LinkedIn Profile](www.linkedin.com/in/nathanthokkudubiyyapu)
+  - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/nathanthokkudubiyyapu)
   - **GitHub**: [GitHub Profile](https://github.com/nathanthokk)
 - ⚡ **Fun fact**: I'm a huge fan of Suits, love playing Spikeball, and enjoy discussing cryptocurrency.
 
@@ -54,7 +54,7 @@
 ---
 
 ### 🤝 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/nathanthokkudubiyyapu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathanthokkudubiyyapu)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/nathanthokk)
 
 ---

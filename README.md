@@ -42,12 +42,12 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanthokk&layout=compact&theme=radical)
 
 ---
--->
+
 ### 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=nathanthokk&theme=onedark)](https://github.com/nathanthokk/github-profile-trophy)
 
 ---
-
+-->
 ### ✍️ Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
